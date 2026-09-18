@@ -1,0 +1,51 @@
+# Local toolchains and generated state
+/tools/
+/.dart_tool/
+/.flutter-plugins-dependencies
+/.pub-cache/
+/.pub/
+/.gradle/
+/.kotlin/
+/.cxx/
+/build/
+/dist/
+/coverage/
+/.idea/
+local.properties
+GeneratedPluginRegistrant.java
+__pycache__/
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+*.apk
+*.zip
+*.tar.gz
+
+# IDE and platform build outputs
+*.iml
+*.ipr
+*.iws
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+app.*.symbols
+app.*.map.json
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+/android/app/build/
+
+# Local signing material must never enter a source distribution.
+/android/key.properties
+*.jks
+*.keystore
+
+# Local verification and rollback records
+/.codex/transactions/

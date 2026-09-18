@@ -1,0 +1,15 @@
+MirrorBridge project licensing notice
+
+No blanket open-source license is granted for project-specific code and assets
+by publishing this repository. Rights in each contribution remain with its
+respective rights holder. Obtain the applicable rights holder's permission for
+uses that require a license, unless an express license applies to that material.
+
+Third-party components retain their own licenses and copyright notices. This
+notice does not replace, restrict, or relicense those components. Their bundled
+notices are provided in THIRD_PARTY_LICENSES.txt and the application's license
+screen. Additional dependencies may carry notices in their own distributions.
+
+Nothing in this notice grants rights to third-party trademarks, camera firmware,
+user-supplied photographs, or user-imported filters. Applicable statutory rights
+are unaffected.
